@@ -74,7 +74,7 @@ module.exports = {
     'hyperterm-transparent-bg',
     'hyperterm-visor',
     'hyperterm-open-devtools',
-    'hyperterm-close-on-left'  ],
+    'hyperterm-close-on-left', 'drip' ],
   // in development, you can create a directory under
   // `~/.hyperterm_plugins/local/` and include it here
   // to load it and avoid it being `npm install`ed
