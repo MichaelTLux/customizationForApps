@@ -4,7 +4,6 @@ atom-material-ui@1.3.3
 atom-runner@2.6.0
 auto-detect-indentation@1.1.0
 autoclose-html@0.23.0
-autocomplete-plus@2.31.1
 browser-plus@0.0.67
 emmet@2.4.3
 highlight-selected@0.11.2
