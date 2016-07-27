@@ -11,14 +11,15 @@
   core:
     disabledPackages: [
       "intellij-idea-keymap"
+      "atom-beautify"
     ]
     packagesWithKeymapsDisabled: [
       "autoclose-html"
     ]
     projectHome: "/Users/LocalUser/Documents/Dev"
     themes: [
-      "atom-dark-ui"
-      "monokai-seti"
+      "atom-material-ui"
+      "base16-tomorrow-dark-theme"
     ]
   editor:
     backUpBeforeSaving: true
@@ -29,5 +30,7 @@
     plugins:
       "highlight-selected": true
       "highlight-selectedDecorationsZIndex": 0
+  "save-session":
+    dataSaveFolder: "/Users/LocalUser/.atom/packages/save-session/projects"
   welcome:
     showOnStartup: false
