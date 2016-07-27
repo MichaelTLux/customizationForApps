@@ -1,4 +1,9 @@
 "*":
+  core:
+    projectHome: "/Users/LocalUser/Documents/Dev"
+  editor:
+    backUpBeforeSaving: true
+    softWrapAtPreferredLineLength: true
   "exception-reporting":
     userId: "8151cc64-4e8b-f9f5-7ae1-977260cafc76"
   welcome:
