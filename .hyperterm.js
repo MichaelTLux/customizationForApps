@@ -30,22 +30,22 @@ module.exports = {
     // some color overrides. see http://bit.ly/29k1iU2 for
     // the full list
     colors: [
-    //   '#000000',
-    //   '#ff0000',
-    //   '#33ff00',
-    //   '#ffff00',
-    //   '#0066ff',
-    //   '#cc00ff',
-    //   '#00ffff',
-    //   '#d0d0d0',
-    //   '#808080',
-    //   '#ff0000',
-    //   '#33ff00',
-    //   '#ffff00',
-    //   '#0066ff',
-    //   '#cc00ff',
-    //   '#00ffff',
-    //   '#ffffff'
+      '#000000',
+      '#ff0000',
+      '#33ff00',
+      '#ffff00',
+      '#0066ff',
+      '#cc00ff',
+      '#00ffff',
+      '#d0d0d0',
+      '#808080',
+      '#ff0000',
+      '#33ff00',
+      '#ffff00',
+      '#0066ff',
+      '#cc00ff',
+      '#00ffff',
+      '#ffffff'
     ],
 
     backgroundColor: '#333333',
@@ -59,7 +59,7 @@ module.exports = {
 
     visor: {
       hotkey: 'CommandOrControl+Shift+H',
-      position: 'right'
+      position: 'top'
     }
   },
 
