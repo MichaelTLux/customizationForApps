@@ -8,3 +8,5 @@ export PS1='\n\[\e[1;32m\]\u\[\e[0;39m\]:\[\e[1;33m\]\w\[\e[0;39m\]\[\e[1;35m\]$
 alias ni='npm i'
 alias nis='npm i --save'
 alias nisd='npm i --save-dev'
+alias apmExport = 'cd ~/.atom && apm list --installed --bare > package-list.txt'
+alias apmInstall = 'cd ~/.atom && apm install --packages-file package-list.txt'
