@@ -1,10 +1,33 @@
 "*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "30e037da-5c68-4bc1-900a-b3a395d5ee8f"
+    html:
+      beautify_on_save: true
+    js:
+      beautify_on_save: true
+    jsx:
+      beautify_on_save: true
   core:
+    disabledPackages: [
+      "intellij-idea-keymap"
+    ]
+    packagesWithKeymapsDisabled: [
+      "autoclose-html"
+    ]
     projectHome: "/Users/LocalUser/Documents/Dev"
+    themes: [
+      "atom-dark-ui"
+      "monokai-seti"
+    ]
   editor:
     backUpBeforeSaving: true
     softWrapAtPreferredLineLength: true
   "exception-reporting":
     userId: "8151cc64-4e8b-f9f5-7ae1-977260cafc76"
+  minimap:
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
   welcome:
     showOnStartup: false
