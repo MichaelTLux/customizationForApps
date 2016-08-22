@@ -13,23 +13,24 @@
       "intellij-idea-keymap"
       "atom-beautify"
     ]
-    packagesWithKeymapsDisabled: [
-      "autoclose-html"
-    ]
+    packagesWithKeymapsDisabled: []
     projectHome: "/Users/LocalUser/Documents/Dev"
     themes: [
       "atom-material-ui"
-      "base16-tomorrow-dark-theme"
+      "monokai-seti"
     ]
   editor:
     backUpBeforeSaving: true
     softWrapAtPreferredLineLength: true
+  emmet: {}
   "exception-reporting":
     userId: "8151cc64-4e8b-f9f5-7ae1-977260cafc76"
   minimap:
     plugins:
       "highlight-selected": true
       "highlight-selectedDecorationsZIndex": 0
+  react:
+    enabledForAllJavascriptFiles: true
   "save-session":
     dataSaveFolder: "/Users/LocalUser/.atom/packages/save-session/projects"
   welcome:

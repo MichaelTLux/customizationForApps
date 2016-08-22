@@ -71,10 +71,10 @@ module.exports = {
   //   `project#1.0.1`
   plugins: [
     'hyperterm-blink',
-    'hyperterm-transparent-bg',
     'hyperterm-visor',
     'hyperterm-open-devtools',
-    'hyperterm-close-on-left', 'drip', 'hyperpower' ],
+    "hyper-log-actions"
+  ],
   // in development, you can create a directory under
   // `~/.hyperterm_plugins/local/` and include it here
   // to load it and avoid it being `npm install`ed

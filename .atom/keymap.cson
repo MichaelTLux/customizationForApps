@@ -31,7 +31,6 @@
 # Atom Flight Manual:
 # https://atom.io/docs/latest/using-atom-basic-customization#cson
 
-
 '.editor':
   'cmd-shift-n': 'fuzzy-finder:toggle-file-finder'
   'cmd-1': 'tree-view:toggle'
@@ -56,6 +55,3 @@
   'cmd-alt-s': 'application:show-settings'
   'cmd-alt-left': 'pane:show-previous-item'
   'cmd-alt-right': 'pane:show-next-item'
-
-'atom-text-editor[data-grammar~="html"]':
-  '>': 'autoclose-html:close-and-complete'
