@@ -16,7 +16,7 @@
     packagesWithKeymapsDisabled: []
     projectHome: "/Users/LocalUser/Documents/Dev"
     themes: [
-      "atom-material-ui"
+      "atom-dark-ui"
       "monokai-seti"
     ]
   editor:
